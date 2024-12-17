@@ -1,3 +1,5 @@
+const posts = require('./data/blog');
+
 const express = require('express');
 const app = express();
 const port = 3000;
